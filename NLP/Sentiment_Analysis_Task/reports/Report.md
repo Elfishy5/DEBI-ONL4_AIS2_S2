@@ -34,6 +34,13 @@ We compared Logistic Regression with **Multinomial Naive Bayes**. While Naive Ba
 Using **WordClouds**, we identified key patterns:
 *   **Positive Reviews:** High frequency of words like "love", "great", "excellent", and product names like "Kindle" and "Echo".
 *   **Negative Reviews:** Frequent mentions of "problem", "issue", "dont work", and specifically **"remote"**, suggesting a potential hardware issue with certain devices.
+As shown in the WordClouds below, we identified key patterns in customer feedback:
+
+![Positive Cloud](./plots/positive_wordcloud.png)
+*Figure 1: Positive reviews emphasize product satisfaction and core features.*
+
+![Negative Cloud](./plots/negative_wordcloud.png)
+*Figure 2: Negative reviews highlight specific hardware issues, notably with the "remote".*
 
 ## 7. Modularization & Final Deployment
 The code was refactored into a professional structure:

@@ -38,5 +38,15 @@ Sentiment_Analysis_Task/
 📈 Results Overview
 The model achieves a balanced accuracy of ~92%, successfully identifying both positive and negative sentiments despite the initial class imbalance in the dataset.
 
+## 📊 Data Visualizations
+
+To visualize the model's logic, we generated WordClouds representing the top 100 words for each sentiment category:
+
+### Positive Sentiment
+![Positive WordCloud](reports/plots/positive_wordcloud.png)
+
+### Negative Sentiment
+![Negative WordCloud](reports/plots/negative_wordcloud.png)
+
 👨‍💻 Author
 Ahmed Abdelnaby Ali
