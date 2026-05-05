@@ -34,3 +34,9 @@ Sentiment_Analysis_Task/
 │
 ├── requirements.txt           # Project dependencies
 └── README.md                  # Project documentation
+
+📈 Results Overview
+The model achieves a balanced accuracy of ~92%, successfully identifying both positive and negative sentiments despite the initial class imbalance in the dataset.
+
+👨‍💻 Author
+Ahmed Abdelnaby Ali
